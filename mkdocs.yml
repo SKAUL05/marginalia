@@ -1,5 +1,8 @@
 site_name: Technical Notes
 repo_url: https://github.com/SKAUL05/marginalia
-nav:
-    - Home: index.md
+copyright: Made with ❤️ by SKAUL05
+repo_name: SKAUL05/marginalia
+edit_uri: edit/main/docs/
+docs_dir: ./docs
+site_dir: ./site
 theme: readthedocs
