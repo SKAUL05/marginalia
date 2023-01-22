@@ -1,5 +1,5 @@
 site_name: Technical Notes
-site_url: https://example.com/
+repo_url: https://github.com/SKAUL05/marginalia
 nav:
     - Home: index.md
 theme: readthedocs
